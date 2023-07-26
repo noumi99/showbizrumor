@@ -19,8 +19,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://showbizrumor.000webhostapp.com/` + encodeURI(path as string)
-				}`,
+					`https://showbizrumor.blogspot.com/2023/07/shocking-revelations-ariana-grandes_26.html/
+				}`
 			},
 		};
 		}
